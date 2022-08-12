@@ -18,7 +18,7 @@ namespace SP.ShareDocumentUsingRESTAPI
     internal class Program
     {
         static string CertificatePath = @"";
-        static string CertificatePassword = "@word1";
+        static string CertificatePassword = "";
         static string TenantId = "";
         static string ClientId = "";
         static async Task Main(string[] args)
