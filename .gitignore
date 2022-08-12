@@ -3,3 +3,7 @@
 ################################################################################
 
 /SP.ShareDocumentUsingRESTAPI/packages
+/SP.ShareDocumentUsingRESTAPI/SP.ShareDocumentUsingRESTAPI/obj/Debug
+/SP.ShareDocumentUsingRESTAPI/SP.ShareDocumentUsingRESTAPI/obj/Release
+/SP.ShareDocumentUsingRESTAPI/SP.ShareDocumentUsingRESTAPI/bin/Release
+/SP.ShareDocumentUsingRESTAPI/SP.ShareDocumentUsingRESTAPI/bin/Debug
